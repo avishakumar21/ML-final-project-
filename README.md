@@ -1,5 +1,4 @@
-# ML-final-project-
-this is the final project for ML 2 
+This project uses random feauturization to detect wildfires in satellite imagery. 
 
 The field of combining satellite imagery with machine learning (SIML) has vast implications across
 many different applications. From estimation of socioeconomic climate in data-poor regions to global
